@@ -1,4 +1,4 @@
-# Airbnb_Housing_Price#
+# Airbnb_Housing_Price
 
 Project type: Data analysis project
 
