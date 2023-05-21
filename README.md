@@ -4,7 +4,7 @@ Project type: Data analysis project
 
 Group Members: Zongjie Yin, Chunyu Chen
 
-Situation: Airbnb is a widely-used website and app that serves as a platform for a two-sided market, catering to both landlords and renters. Our goal is to predict the daily price of houses listed on Airbnb in New York City. This prediction is based on various factors such as the number of bedrooms and bathrooms, location, and square footage of the house. The aim is to offer a relative price range for similar houses, providing renters with a wider range of affordable and higher-quality housing options while enabling landlords to maximize their income in a shorter period of time.
+Situation: Airbnb is a widely-used website and app that serves as a platform for a two-sided market, catering to both landlords and renters. Our goal is to predict the daily price of houses listed on Airbnb in New York City. This prediction is based on various factors such as the number of bedrooms and bathrooms, location, and square footage of the house, offering a relative price range for similar houses, providing renters with a wider range of affordable and higher-quality housing options while enabling landlords to maximize their income in a shorter period of time.
 
 Actions: 
 1. Preprocessed a large Airbnb dataset such as remove not informative data and filling missing values using different methods to ensure data integrity and consistency;
@@ -14,4 +14,4 @@ Actions:
 5. Evaluated model performance using appropriate evaluation metrics and validated on a holdout dataset;
 6. Provided actionable insights and recommendations to stakeholders, including pricing strategies and property improvements based on the model results.
 
-Result: The lowest Root Mean Squared Error (RMSE) we achieved was 56.53. Based on these results, we were able to provide actionable insights and recommendations to stakeholders, including pricing strategies.
+Result: The lowest Root Mean Squared Error (RMSE) we achieved was 56.53. Based on the results, we were able to provide actionable insights and recommendations to stakeholders, including pricing strategies.
